@@ -1,19 +1,20 @@
 # clicommands
-pwd = to show the current working directory 
-mdkir foldername - to create a folder
-cd foldername - to move specific directory
-ls --- to list all files and folders
-ls -a == to list all files including hidden files
-touch filename  == to create file with file extension
-rm filename   == to delete files with filename
-rm -rf foldername === to delete folder with foldername
-cat filename    === to read file content
------------------------------------------------------------
-To update file = vim and nano commands are useful
-nano filename and then follow commands inside the editor
-vim filename
-press i to insert content
-press ESC to escape insert 
-press : to start command
-enter wq and hit Enter to save and exit the vim editor
------------------------------------------------------------
+
+ <p>-> pwd = to show the current working directory 
+ <p>->  mdkir foldername - to create a folder
+ <p>-> cd foldername - to move specific directory
+ <p>-> ls --- to list all files and folders
+ <p>-> ls -a == to list all files including hidden files
+<p>-> touch filename  == to create file with file extension
+<p>-> rm filename   == to delete files with filename
+<p>-> rm -rf foldername === to delete folder with foldername
+<p>-> cat filename    === to read file content
+<p>------------------------------------------------------------
+<p>-> To update file = vim and nano commands are useful
+<p>-> nano filename and then follow commands inside the editor
+<p>-> vim filename
+<p>-> press i to insert content
+<p>-> press ESC to escape insert 
+<p>-> press : to start command
+<p>-> enter wq and hit Enter to save and exit the vim editor
+<p>------------------------------------------------------------
