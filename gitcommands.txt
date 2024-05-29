@@ -1,0 +1,16 @@
+update the file
+
+use following git commands in bash terminal
+
+git add filename
+
+if two files then we can mention folder
+git add foldername
+
+if you want to add all files without mentioning folder name then use .
+git add .
+
+By using above commands all files are moved to stage.
+
+Now commit
+git commit -m "message"
