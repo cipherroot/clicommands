@@ -14,3 +14,6 @@ By using above commands all files are moved to stage.
 
 Now commit
 git commit -m "message"
+
+to pull from origin branch which is forkd or to pull from the original branch
+git pull origin/upstream branchname
